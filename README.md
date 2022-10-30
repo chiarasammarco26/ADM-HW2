@@ -8,3 +8,5 @@
   Lucia Dicunta
 
 # Description of the files:
+the main.ipynb contains the Jupyter notebook in which we did the code and comments.
+the CommandLine.sh contains the solution to the Command Line Question.

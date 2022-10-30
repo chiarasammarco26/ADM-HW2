@@ -9,4 +9,4 @@
 
 # Description of the files:
 The main.ipynb contains the Jupyter notebook in which we did the code and comments.
-The CommandLine.sh contains the solution to the Command Line Question.
+The CommandLine.sh isn't right but we still tried. We don't know how to properly use the bash code... we looked up everything online but we still couldn't get anything out of it that made sense to us. Still, I will add it to the GitHub to show you we actually tried. 
